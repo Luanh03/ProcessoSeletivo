@@ -1,0 +1,15 @@
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net8.0\ProcessoSeletivo.exe
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net8.0\ProcessoSeletivo.deps.json
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net8.0\ProcessoSeletivo.runtimeconfig.json
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net8.0\ProcessoSeletivo.dll
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net8.0\ProcessoSeletivo.pdb
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.AssemblyInfoInputs.cache
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.AssemblyInfo.cs
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.csproj.CoreCompileInputs.cache
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.dll
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\refint\ProcessoSeletivo.dll
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.pdb
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.genruntimeconfig.cache
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ref\ProcessoSeletivo.dll
+C:\Users\luanh\source\repos\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net8.0\ProcessoSeletivo.sourcelink.json
